@@ -39,7 +39,7 @@ Stock Price prediction Model has been made using LSTM approach Using RNN
 
 This is work in progress. In the future upate predcition on the particular date will be made avaliable.
 
-Also, the accuracy of the model will be increased as I am learn more about the stock market and it whereanout factors
+Also, the accuracy of the model will be increased as I learn more about the stock market and it whereanout factors
 
  
  
