@@ -35,13 +35,3 @@ Stock Price prediction Model has been made using LSTM approach Using RNN
  
  <img src="TATA(Open Parameter )Garph.png">
  
-# Update
-
-This is work in progress. In the future upate predcition on the particular date will be made avaliable.
-
-Also, the accuracy of the model will be increased as I learn more about the stock market and it whereabout factors
-
- 
- 
- 
- 
